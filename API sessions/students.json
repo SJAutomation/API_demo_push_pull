@@ -1,0 +1,50 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "shubha",
+      "rno": 11,
+      "addr": "pune"
+    },
+    {
+      "id": "2",
+      "name": "Anuja",
+      "rno": 12,
+      "addr": "pune"
+    },
+    {
+      "id": "3",
+      "name": "Priya",
+      "rno": 13,
+      "addr": "Mumbai"
+    },
+    {
+      "name": "Priyanka",
+      "rno": 14,
+      "addr": "Kolkata",
+      "id": "13f4"
+    },
+    {
+      "id": "111",
+      "loc": "Kashmir"
+    },
+    {
+      "id": "111",
+      "name": "anjali",
+      "rno": 11,
+      "addr": "chennai"
+    }
+  ],
+  "teachers": [
+    {
+      "fname": "Aniket",
+      "lname": "sarang",
+      "id": "e5fa"
+    },
+    {
+      "id": "319b",
+      "fname": "Shubhangi",
+      "lname": "jadhav"
+    }
+  ]
+}
